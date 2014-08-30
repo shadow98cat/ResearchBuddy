@@ -1,0 +1,4 @@
+[AI]
+name = "Research Buddy"
+js = ResearchBuddy.js
+tip = "Researches power, armor and other defensive tech. Higher difficulty = Faster researching"
